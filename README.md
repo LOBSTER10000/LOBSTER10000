@@ -2,7 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2596be&text=Dongkyu%20Lee&fontAlign=78&height=200&fontSize=50&fontColor=ffffff">
 </div>
 
-<h1 align="center">For 1 person Developer</h2>
+<h3 align="center">For 1 person Developer</h3>
+<p></p>
+
 
 
 <h2 align="center">🛠 Tech Stack 🛠</h2>
