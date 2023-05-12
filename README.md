@@ -2,6 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2596be&text=Dongkyu%20Lee&fontAlign=78&height=200&fontSize=50&fontColor=ffffff">
 </div>
 
+<h2 align="center"></h2>
+
+
 <h2 align="center">🛠 Tech Stack 🛠</h2>
 
 <p align="center"> 
@@ -9,11 +12,14 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> 
 </p>
 
 <h2 align="center">🎳 About Me 🎳</h2>
 
 <p align="center">
-  안녕하세요! 저는 백엔드 개발자를 꿈꾸는 이동규입니다.
+  <a href="https://velog.io/@ghh607"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@ghh607"/>
+  </a>&nbsp
+  <a href="https://github.com/LOBSTER10000"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white&link=https://github.com/LOBSTER10000"/>
+  </a>&nbsp
 </p>
