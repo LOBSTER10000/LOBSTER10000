@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2596be&text=Dongkyu%20Lee&fontAlign=78&height=200&fontSize=50&fontColor=ffffff">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2596be&text=Lobster%20Lee&fontAlign=78&height=200&fontSize=50&fontColor=ffffff">
 </div>
 
 <h3 align="center">For 1 person Developer</h3>
