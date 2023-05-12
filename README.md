@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2596be&text=Dongkyu%20Lee&fontAlign=78&height=200&fontSize=50&fontColor=ffffff">
 </div>
 
-<h2 align="center">하루에 하나씩 배워나가는 랍스터</h2>
+<h1 align="center">For 1 person Developer</h2>
 
 
 <h2 align="center">🛠 Tech Stack 🛠</h2>
