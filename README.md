@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2596be&text=Lobster%20Lee&fontAlign=78&height=200&fontSize=50&fontColor=ffffff">
 </div>
 
-<h3 align="center">For 1 person Developer</h3>
+<h1 align="center">For 1 person Developer</h1>
 
 <div align="center">
 <img align="center" width="10%" src="https://github.com/LOBSTER10000/LOBSTER10000/assets/111476138/6862e257-671a-421f-b968-07b4f83e3f04">
